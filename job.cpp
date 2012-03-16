@@ -5,6 +5,7 @@
 int main()
 {
 
+	printf("你开门");
  	char *p=NULL;
 	p=(char *)malloc(sizeof(char)*MAX);
  	if(!p)
